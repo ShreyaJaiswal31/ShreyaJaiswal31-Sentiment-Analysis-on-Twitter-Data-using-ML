@@ -1,0 +1,2 @@
+# ShreyaJaiswal31-Sentiment-Analysis-on-Twitter-Data-using-ML
+This project performs sentiment analysis on real-time tweets using Tweepy for data collection and Machine Learning (Logistic Regression, SVM) for classification. The tweets are processed with NLTK, TextBlob, and VADER for initial labeling, and vectorized using TF-IDF. Final results are visualized with Matplotlib, Seaborn, and WordCloud.
